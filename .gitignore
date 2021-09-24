@@ -1,2 +1,15 @@
+# Backend
 node_modules/
 dist/
+
+# Mobile
+node_modules/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
